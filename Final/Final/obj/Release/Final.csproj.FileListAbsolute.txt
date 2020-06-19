@@ -1,0 +1,12 @@
+D:\HOC\C#\Final\Final\Final\bin\Release\Final.exe.config
+D:\HOC\C#\Final\Final\Final\bin\Release\Final.exe
+D:\HOC\C#\Final\Final\Final\bin\Release\Final.pdb
+D:\HOC\C#\Final\Final\Final\obj\Release\Final.csprojAssemblyReference.cache
+D:\HOC\C#\Final\Final\Final\obj\Release\Final.BanCo.resources
+D:\HOC\C#\Final\Final\Final\obj\Release\Final.thucThi.resources
+D:\HOC\C#\Final\Final\Final\obj\Release\Final.Properties.Resources.resources
+D:\HOC\C#\Final\Final\Final\obj\Release\Final.csproj.GenerateResource.cache
+D:\HOC\C#\Final\Final\Final\obj\Release\Final.csproj.CoreCompileInputs.cache
+D:\HOC\C#\Final\Final\Final\obj\Release\Final.exe
+D:\HOC\C#\Final\Final\Final\obj\Release\Final.pdb
+D:\HOC\C#\Final\Final\Final\obj\Release\Final.Group.resources
